@@ -51,6 +51,45 @@ const discoverData = [
     rating: 4.5,
     duration: 3,
   },
+  {
+    id: 'discover-5',
+    title: 'Hiking the Grand Canyon',
+    location: 'USA',
+    image: require('../images/canyon.png'),
+    imageBig: require('../images/canyon-big.png'),
+    description:
+      'Great day hikes and backpacking routes on the North and South Rim of this century-old national park include easy hikes overlooking the rim and more rugged trekking options that descend into the canyon.',
+    liked: true,
+    price: 350,
+    rating: 4.5,
+    duration: 3,
+  },
+  {
+    id: 'discover-6',
+    title: 'Hiking the Grand Canyon',
+    location: 'USA',
+    image: require('../images/canyon.png'),
+    imageBig: require('../images/canyon-big.png'),
+    description:
+      'Great day hikes and backpacking routes on the North and South Rim of this century-old national park include easy hikes overlooking the rim and more rugged trekking options that descend into the canyon.',
+    liked: true,
+    price: 350,
+    rating: 4.5,
+    duration: 3,
+  },
+  {
+    id: 'discover-7',
+    title: 'Hiking the Grand Canyon',
+    location: 'USA',
+    image: require('../images/canyon.png'),
+    imageBig: require('../images/canyon-big.png'),
+    description:
+      'Great day hikes and backpacking routes on the North and South Rim of this century-old national park include easy hikes overlooking the rim and more rugged trekking options that descend into the canyon.',
+    liked: true,
+    price: 350,
+    rating: 4.5,
+    duration: 3,
+  },
 ];
 
 export default discoverData;
